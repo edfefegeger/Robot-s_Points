@@ -1,0 +1,3 @@
+/home/pc450/Downloads/Robot's_Points/build/CMakeFiles/PointFilter.dir
+/home/pc450/Downloads/Robot's_Points/build/CMakeFiles/edit_cache.dir
+/home/pc450/Downloads/Robot's_Points/build/CMakeFiles/rebuild_cache.dir
